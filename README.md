@@ -9,6 +9,7 @@ View the certificate status [here](https://novadev.vip/resources/certificates/)!
 
 | Company | Type | Status | Valid From | Valid To | Download |
 |:--------|:----|:------|:----------|:--------|:--------|
+| Aramco Services Company | Enterprise Certificate | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Beijing%2520Zhizhangyi%2520Inc.) |
 | Beijing Zhizhangyi Inc. | Enterprise Certificate | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Beijing%2520Zhizhangyi%2520Inc.) |
 | XL AXIATA, PT TBK | Enterprise Certificate | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/XL%2520AXIATA%252C%2520PT%2520TBK) |
 | National Oilwell Varco, Inc | Enterprise Certificate | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/National%2520Oilwell%2520Varco%252C%2520Inc) |
@@ -50,6 +51,7 @@ View the certificate status [here](https://novadev.vip/resources/certificates/)!
 
 # Updates
 
+**08-05-26** Aramco Services Company cert!  
 **28-03-26** Add the XL AXIATA, PT TBK cert! 🥳  
 **21-03-26** Add the Complaints Management MP of the Commision on Elections cert! 🎉  
 **02-03-26** Add the National Oilwell Varco, Inc cert!  
