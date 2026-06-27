@@ -164,7 +164,7 @@ def parse_readme_table(readme_content):
     table_start = -1
 
     for i, line in enumerate(lines):
-        if line.startswith('| Company | Type | Status |'):
+        if line.startswith('| Certificate | Status |'):
             table_start = i
             break
 
@@ -179,14 +179,12 @@ def parse_readme_table(readme_content):
 
         cells = [cell.strip() for cell in line.split('|')[1:-1]]
 
-        if len(cells) >= 5:
+        if len(cells) >= 3:
             cert_info = {
                 "company": cells[0],
-                "type": cells[1],
-                "status": cells[2],
-                "valid_from": cells[3],
-                "valid_to": cells[4],
-                "download": cells[5] if len(cells) > 5 else "",
+                "status": cells[1],
+                "valid_from": cells[2],
+                "valid_to": cells[3] if len(cells) > 3 else "",
                 "line_index": i
             }
             certificates.append(cert_info)
@@ -212,20 +210,18 @@ def update_readme_table(certificates, lines):
         elif status == 'unknown':
             new_status = f"{status_emoji} Status: Unknown"
         else:
-            new_status = row_parts[3].strip()
+            new_status = row_parts[2].strip()
 
-        valid_from = cert.get('valid_from', '').strip() or row_parts[4].strip()
-        valid_to = cert.get('valid_to', '').strip() or row_parts[5].strip()
+        valid_from = cert.get('valid_from', '').strip() or row_parts[3].strip()
+        valid_to = cert.get('valid_to', '').strip() or row_parts[4].strip()
 
         # Update the row parts with spaces around for neatness
+        if len(row_parts) > 2:
+            row_parts[2] = f" {new_status} "
         if len(row_parts) > 3:
-            row_parts[3] = f" {new_status} "
+            row_parts[3] = f" {valid_from} "
         if len(row_parts) > 4:
-            row_parts[4] = f" {valid_from} "
-        if len(row_parts) > 5:
-            row_parts[5] = f" {valid_to} "
-        if len(row_parts) > 6:
-            row_parts[6] = f" {cert.get('download', row_parts[6].strip())} "
+            row_parts[4] = f" {valid_to} "
 
         updated_lines[idx] = '|'.join(row_parts)
 

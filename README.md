@@ -8,48 +8,50 @@
 View the certificate status [here](https://novadev.vip/sideloading/certificates/)!
 
 ---
+[![Download Certificates](https://custom-icon-badges.demolab.com/badge/Download%20Certificates-blue?style=for-the-badge&logo=download&logoColor=white)](https://novadev.vip/sideloading/certificates/)
+---
 
-| Company | Type | Status | Valid From | Valid To | Download |
-|:--------|:----|:------|:----------|:--------|:--------|
-| VIETNAM AIRLINES JSC 2 | Enterprise Certificate | ❌ Revoked | Aug 8 12:21:46 2025 GMT | Aug 8 12:21:46 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/VIETNAM%2520AIRLINES%2520JSC%25202) |
-| China Telecom Corporation Limited | Enterprise Certificate | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/China%2520Telecom%2520Corporation%2520Limited) |
-| Aramco Services Company | Enterprise Certificate | ❌ Revoked | Feb 17 15:03:05 2026 GMT | Sep 24 13:35:52 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Aramco%2520Services%2520Company) |
-| Beijing Zhizhangyi Inc. | Enterprise Certificate | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Beijing%2520Zhizhangyi%2520Inc.) |
-| XL AXIATA, PT TBK | Enterprise Certificate | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/XL%2520AXIATA%252C%2520PT%2520TBK) |
-| National Oilwell Varco, Inc | Enterprise Certificate | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/National%2520Oilwell%2520Varco%252C%2520Inc) |
-| VIETNAM AIRLINES JSC | Enterprise Certificate | ❌ Revoked | Apr 22 14:56:19 2025 GMT | Apr 22 14:56:19 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/VIETNAM%2520AIRLINES%2520JSC) |
-| Forevermark Marketing(Shanghai ) Limited | Enterprise Certificate | ❌ Revoked | Nov 6 12:39:14 2025 GMT | Nov 6 12:39:14 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Forevermark%2520Marketing%2528Shanghai%2520%2529%2520Limited) |
-| PowerChina International Group Limited (DoaTYw) | Enterprise Certificate | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/PowerChina%2520International%2520Group%2520Limited%2520%2528DoaTYw%2529) |
-| PowerChina International Group Limited (nj61nO) | Enterprise Certificate | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/PowerChina%2520International%2520Group%2520Limited%2520%2528nj61nO%2529) |
-| PowerChina International Group Limited (j3krPY) | Enterprise Certificate | ❌ Revoked | Nov 7 04:08:33 2025 GMT | Nov 7 04:08:33 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/PowerChina%2520International%2520Group%2520Limited%2520%2528j3krPY%2529) |
-| PowerChina International Group Limited (HRU79V) | Enterprise Certificate | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/PowerChina%2520International%2520Group%2520Limited%2520%2528HRU79V%2529) |
-| PowerChina International Group Limited (iWaMrs) | Enterprise Certificate | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/PowerChina%2520International%2520Group%2520Limited%2520%2528iWaMrs%2529) |
-| China Academy of Railway Sciences | Enterprise Certificate | ❌ Revoked | Nov 11 07:35:17 2025 GMT | Nov 11 07:35:17 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/China%2520Academy%2520of%2520Railway%2520Sciences) |
-| Qingdao Rural Commercial Bank Co., Ltd | Enterprise Certificate | ❌ Revoked | Nov 15 03:25:20 2025 GMT | Nov 15 03:25:20 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Qingdao%2520Rural%2520Commercial%2520Bank%2520Co.%252C%2520Ltd) |
-| Commission on Elections (Complaints Management) | Enterprise Certificate | ❌ Revoked | Sep 23 08:42:18 2025 GMT | Sep 23 08:42:18 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Commission%2520on%2520Elections%2520%2528Complaints%2520Management%2529) |
-| Commission on Elections (EMS Manage) | Enterprise Certificate | ❌ Revoked | Apr 28 11:36:00 2025 GMT | Apr 28 11:36:00 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Commission%2520on%2520Elections%2520%2528EMS%2520Manage%2529) |
-| Commission on Elections (Report) | Enterprise Certificate | ❌ Revoked | Apr 28 11:35:11 2025 GMT | Apr 28 11:35:11 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Commission%2520on%2520Elections%2520%2528Report%2529) |
-| Commission on Elections (United politics) | Enterprise Certificate | ❌ Revoked | Aug 25 01:31:00 2025 GMT | Aug 25 01:31:00 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Commission%2520on%2520Elections%2520%2528United%2520politics%2529) |
-| Commission on Elections (oadav) | Enterprise Certificate | ❌ Revoked | Apr 28 11:10:01 2025 GMT | Apr 17 16:19:09 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Commission%2520on%2520Elections%2520%2528oadav%2529) |
-| Commission on Elections (Committee Supervision) | Enterprise Certificate | ❌ Revoked | Aug 25 01:40:45 2025 GMT | Aug 25 01:40:45 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Commission%2520on%2520Elections%2520%2528Committee%2520Supervision%2529) |
-| Etisalat - Emirates Telecommunications Corporation | Enterprise Certificate | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 7 11:07:09 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Etisalat%2520-%2520Emirates%2520Telecommunications%2520Corporation) |
-| VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE | Enterprise Certificate | ❌ Revoked | Apr 24 10:51:01 2025 GMT | Apr 24 10:51:01 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/VIETNAM%2520JOINT%2520STOCK%2520COMMERCIAL%2520BANK%2520FOR%2520INDUSTRY%2520AND%2520TRADE) |
-| China Telecommunications Corporation | Enterprise Certificate | ❌ Revoked | Apr 18 08:18:10 2025 GMT | Apr 18 08:18:10 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/China%2520Telecommunications%2520Corporation) |
-| Wuling Power Corporation | Enterprise Certificate | ❌ Revoked | May 14 09:44:48 2025 GMT | May 14 09:44:48 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Wuling%2520Power%2520Corporation) |
-| Wasu Media & Networking Co., Ltd (jicengzhili_create20250114) | Enterprise Certificate | ❌ Revoked | Jan 14 07:08:55 2025 GMT | Jan 12 05:42:11 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Wasu%2520Media%2520%2526%2520Networking%2520Co.%252C%2520Ltd%2520%2528jicengzhili_create20250114%2529) |
-| Wasu Media & Networking Co., Ltd (com.wasu.demo) | Enterprise Certificate | ❌ Revoked | Apr 10 07:55:16 2025 GMT | Jan 12 05:42:11 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Wasu%2520Media%2520%2526%2520Networking%2520Co.%252C%2520Ltd%2520%2528com.wasu.demo%2529) |
-| Luoyang Postal Administration | Enterprise Certificate | ❌ Revoked | Aug 10 03:10:38 2025 GMT | Aug 10 03:10:38 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Luoyang%2520Postal%2520Administration) |
-| Global Takeoff, Inc (Airtel Adhoc) | Enterprise Certificate | ❌ Revoked | Jun 15 02:26:31 2025 GMT | Jun 15 02:26:31 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Global%2520Takeoff%252C%2520Inc%2520%2528Airtel%2520Adhoc%2529) |
-| Global Takeoff, Inc (Deeplink) | Enterprise Certificate | ❌ Revoked | Jul 18 06:32:21 2025 GMT | Jul 18 06:32:21 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Global%2520Takeoff%252C%2520Inc%2520%2528Deeplink%2529) |
-| Global Takeoff, Inc (Fairplay) | Enterprise Certificate | ❌ Revoked | Jul 14 12:13:49 2025 GMT | Jul 14 12:13:49 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Global%2520Takeoff%252C%2520Inc%2520%2528Fairplay%2529) |
-| Global Takeoff, Inc (HLS) | Enterprise Certificate | ❌ Revoked | Jul 8 08:01:43 2025 GMT | Jul 8 08:01:43 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Global%2520Takeoff%252C%2520Inc%2520%2528HLS%2529) |
-| Global Takeoff, Inc (Scope ent distribution) | Enterprise Certificate | ❌ Revoked | Jun 5 09:10:29 2025 GMT | Jun 5 09:10:29 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Global%2520Takeoff%252C%2520Inc%2520%2528Scope%2520ent%2520distribution%2529) |
-| Global Takeoff, Inc (ads) | Enterprise Certificate | ❌ Revoked | Jun 26 20:07:37 2025 GMT | Jun 26 20:07:37 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Global%2520Takeoff%252C%2520Inc%2520%2528ads%2529) |
-| Global Takeoff, Inc (branch distribution) | Enterprise Certificate | ❌ Revoked | Jun 5 09:11:08 2025 GMT | Jun 5 09:11:08 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Global%2520Takeoff%252C%2520Inc%2520%2528branch%2520distribution%2529) |
-| Global Takeoff, Inc (suppose) | Enterprise Certificate | ❌ Revoked | Jun 26 20:10:06 2025 GMT | Jun 26 20:10:06 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Global%2520Takeoff%252C%2520Inc%2520%2528suppose%2529) |
-| Guangzhou Huahan Educational & Technology Co., Ltd. | Enterprise Certificate | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Guangzhou%2520Huahan%2520Educational%2520%2526%2520Technology%2520Co.%252C%2520Ltd.) |
-| Tianjin University of Commerce | Enterprise Certificate | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/Tianjin%2520University%2520of%2520Commerce) |
-| China National Heavy Duty Truck Group Co., Ltd. | Enterprise Certificate | ❌ Revoked | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT | [Download](https://download-directory.github.io/?url=https%3A//github.com/NovaDev404/certificates/tree/main/China%2520National%2520Heavy%2520Duty%2520Truck%2520Group%2520Co.%252C%2520Ltd.) |
+| Certificate | Status | Valid From | Valid To |
+|:--------|:------|:----------|:--------|
+| VIETNAM AIRLINES JSC 2 | ❌ Revoked | Aug 8 12:21:46 2025 GMT | Aug 8 12:21:46 2026 GMT |
+| China Telecom Corporation Limited | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
+| Aramco Services Company | ❌ Revoked | Feb 17 15:03:05 2026 GMT | Sep 24 13:35:52 2026 GMT |
+| Beijing Zhizhangyi Inc. | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
+| XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
+| National Oilwell Varco, Inc | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
+| VIETNAM AIRLINES JSC | ❌ Revoked | Apr 22 14:56:19 2025 GMT | Apr 22 14:56:19 2026 GMT |
+| Forevermark Marketing(Shanghai ) Limited | ❌ Revoked | Nov 6 12:39:14 2025 GMT | Nov 6 12:39:14 2026 GMT |
+| PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
+| PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
+| PowerChina International Group Limited (j3krPY) | ❌ Revoked | Nov 7 04:08:33 2025 GMT | Nov 7 04:08:33 2026 GMT |
+| PowerChina International Group Limited (HRU79V) | ❌ Revoked | Oct 22 06:15:12 2025 GMT | Oct 22 06:15:12 2026 GMT |
+| PowerChina International Group Limited (iWaMrs) | ❌ Revoked | Oct 22 06:15:37 2025 GMT | Oct 22 06:15:37 2026 GMT |
+| China Academy of Railway Sciences | ❌ Revoked | Nov 11 07:35:17 2025 GMT | Nov 11 07:35:17 2026 GMT |
+| Qingdao Rural Commercial Bank Co., Ltd | ❌ Revoked | Nov 15 03:25:20 2025 GMT | Nov 15 03:25:20 2026 GMT |
+| Commission on Elections (Complaints Management) | ❌ Revoked | Sep 23 08:42:18 2025 GMT | Sep 23 08:42:18 2026 GMT |
+| Commission on Elections (EMS Manage) | ❌ Revoked | Apr 28 11:36:00 2025 GMT | Apr 28 11:36:00 2026 GMT |
+| Commission on Elections (Report) | ❌ Revoked | Apr 28 11:35:11 2025 GMT | Apr 28 11:35:11 2026 GMT |
+| Commission on Elections (United politics) | ❌ Revoked | Aug 25 01:31:00 2025 GMT | Aug 25 01:31:00 2026 GMT |
+| Commission on Elections (oadav) | ❌ Revoked | Apr 28 11:10:01 2025 GMT | Apr 17 16:19:09 2026 GMT |
+| Commission on Elections (Committee Supervision) | ❌ Revoked | Aug 25 01:40:45 2025 GMT | Aug 25 01:40:45 2026 GMT |
+| Etisalat - Emirates Telecommunications Corporation | ❌ Revoked | Apr 9 12:50:26 2025 GMT | Feb 7 11:07:09 2026 GMT |
+| VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE | ❌ Revoked | Apr 24 10:51:01 2025 GMT | Apr 24 10:51:01 2026 GMT |
+| China Telecommunications Corporation | ❌ Revoked | Apr 18 08:18:10 2025 GMT | Apr 18 08:18:10 2026 GMT |
+| Wuling Power Corporation | ❌ Revoked | May 14 09:44:48 2025 GMT | May 14 09:44:48 2026 GMT |
+| Wasu Media & Networking Co., Ltd (jicengzhili_create20250114) | ❌ Revoked | Jan 14 07:08:55 2025 GMT | Jan 12 05:42:11 2026 GMT |
+| Wasu Media & Networking Co., Ltd (com.wasu.demo) | ❌ Revoked | Apr 10 07:55:16 2025 GMT | Jan 12 05:42:11 2026 GMT |
+| Luoyang Postal Administration | ❌ Revoked | Aug 10 03:10:38 2025 GMT | Aug 10 03:10:38 2026 GMT |
+| Global Takeoff, Inc (Airtel Adhoc) | ❌ Revoked | Jun 15 02:26:31 2025 GMT | Jun 15 02:26:31 2026 GMT |
+| Global Takeoff, Inc (Deeplink) | ❌ Revoked | Jul 18 06:32:21 2025 GMT | Jul 18 06:32:21 2026 GMT |
+| Global Takeoff, Inc (Fairplay) | ❌ Revoked | Jul 14 12:13:49 2025 GMT | Jul 14 12:13:49 2026 GMT |
+| Global Takeoff, Inc (HLS) | ❌ Revoked | Jul 8 08:01:43 2025 GMT | Jul 8 08:01:43 2026 GMT |
+| Global Takeoff, Inc (Scope ent distribution) | ❌ Revoked | Jun 5 09:10:29 2025 GMT | Jun 5 09:10:29 2026 GMT |
+| Global Takeoff, Inc (ads) | ❌ Revoked | Jun 26 20:07:37 2025 GMT | Jun 26 20:07:37 2026 GMT |
+| Global Takeoff, Inc (branch distribution) | ❌ Revoked | Jun 5 09:11:08 2025 GMT | Jun 5 09:11:08 2026 GMT |
+| Global Takeoff, Inc (suppose) | ❌ Revoked | Jun 26 20:10:06 2025 GMT | Jun 26 20:10:06 2026 GMT |
+| Guangzhou Huahan Educational & Technology Co., Ltd. | ❌ Revoked | Jan 24 03:35:31 2025 GMT | Jan 24 03:35:31 2026 GMT |
+| Tianjin University of Commerce | ❌ Revoked | Mar 17 12:52:01 2025 GMT | Mar 17 12:52:01 2026 GMT |
+| China National Heavy Duty Truck Group Co., Ltd. | ❌ Revoked | Apr 11 08:48:04 2025 GMT | Apr 11 08:48:04 2026 GMT |
 
 ---
 
