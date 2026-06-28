@@ -22,7 +22,7 @@ View the certificate status [here](https://novadev.vip/sideloading/certificates/
 | Beijing Zhizhangyi Inc. | ❌ Revoked | Jul 18 09:18:33 2025 GMT | Jul 18 09:18:33 2026 GMT |
 | XL AXIATA, PT TBK | ❌ Revoked | Feb 19 04:09:48 2026 GMT | Feb 19 04:09:48 2027 GMT |
 | National Oilwell Varco, Inc | ❌ Revoked | Jan 26 22:23:53 2026 GMT | Jan 26 22:23:53 2027 GMT |
-| VIETNAM AIRLINES JSC | ❌ Revoked | Apr 22 14:56:19 2025 GMT | Apr 22 14:56:19 2026 GMT |
+| VIETNAM AIRLINES JSC [Old] | ❌ Revoked | Apr 22 14:56:19 2025 GMT | Apr 22 14:56:19 2026 GMT |
 | Forevermark Marketing(Shanghai ) Limited | ❌ Revoked | Nov 6 12:39:14 2025 GMT | Nov 6 12:39:14 2026 GMT |
 | PowerChina International Group Limited (DoaTYw) | ❌ Revoked | Nov 22 02:21:56 2025 GMT | Nov 22 02:21:56 2026 GMT |
 | PowerChina International Group Limited (nj61nO) | ❌ Revoked | Nov 22 02:21:31 2025 GMT | Nov 22 02:21:31 2026 GMT |
