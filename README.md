@@ -13,6 +13,7 @@ View the certificate status [here](https://novadev.vip/sideloading/certificates/
 
 | Certificate | Status | Valid From | Valid To |
 |:--------|:------|:----------|:--------|
+| Moving Increasingly Interconnected Technology Co., Ltd | ❌ Revoked | Aug 8 12:21:46 2025 GMT | Aug 8 12:21:46 2026 GMT |
 | VIETNAM AIRLINES JSC 2 | ❌ Revoked | Aug 8 12:21:46 2025 GMT | Aug 8 12:21:46 2026 GMT |
 | China Telecom Corporation Limited | ❌ Revoked | Apr 23 08:44:02 2026 GMT | Apr 23 08:44:02 2027 GMT |
 | Aramco Services Company | ❌ Revoked | Feb 17 15:03:05 2026 GMT | Sep 24 13:35:52 2026 GMT |
