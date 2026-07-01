@@ -15,8 +15,8 @@ View the certificate status [here](https://novadev.vip/sideloading/certificates/
 |:--------|:------|:----------|:--------|
 | Moving Increasingly Interconnected Technology Co., Ltd (comoaddw) | ❌ Revoked | Jun 13 11:29:31 2026 GMT | Jun 13 11:29:31 2027 GMT |
 | Moving Increasingly Interconnected Technology Co., Ltd (com.oa11) | ❌ Revoked | Jun 13 11:25:07 2026 GMT | Jun 13 11:25:07 2027 GMT |
-| VIETNAM AIRLINES JSC (tn elearning) | ❌ Revoked | Aug 8 07:22:45 2025 GMT | Aug 8 07:22:45 2026 GMT |
-| VIETNAM AIRLINES JSC (MOPLUS Uat) | ❌ Revoked | Aug 8 07:22:45 2025 GMT | Aug 8 07:22:45 2026 GMT |
+| VIETNAM AIRLINES JSC (tn elearning) | ❌ Revoked | Aug 8 06:55:41 2025 GMT | Aug 8 06:55:41 2026 GMT |
+| VIETNAM AIRLINES JSC (MOPLUS Uat) | ❌ Revoked | Aug 8 07:24:27 2025 GMT | Aug 8 07:24:27 2026 GMT |
 | VIETNAM AIRLINES JSC (VNA Discovery) | ❌ Revoked | Aug 8 07:22:45 2025 GMT | Aug 8 07:22:45 2026 GMT |
 | VIETNAM AIRLINES JSC (MOPLUS Pro) | ❌ Revoked | Aug 8 07:21:49 2025 GMT | Aug 8 07:21:49 2026 GMT |
 | VIETNAM AIRLINES JSC (MOPLUS LIDO UAT) | ❌ Revoked | Aug 8 12:21:46 2025 GMT | Aug 8 12:21:46 2026 GMT |
